@@ -67,3 +67,12 @@ td{
 #contact{
     font-size:90%;
 }
+label, textarea{
+    display: block;
+}
+input,textarea{
+    margin-bottom: 1.5em;
+}
+.required{
+    color: #ff0000;
+}
